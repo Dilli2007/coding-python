@@ -1,0 +1,17 @@
+Desktop assistant
+
+1. Listen to a command
+      Speech Recognition
+         
+
+2. speak
+       gTTS - google text to Speech
+       pyttsx3 - python text to Speech
+
+3.perform the command task
+       os module - camera, control panel
+       webBrowser module
+       wikepedia module
+
+
+
